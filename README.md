@@ -35,7 +35,19 @@
 
 ## ☕ 支持一下
 
-<p align="center">
-  <img src="./images/wx.png" alt="微信收款" width="160"/><br/><sub>微信</sub>
-  <img src="./images/alipay.png" alt="支付宝收款" width="160"/><br/><sub>支付宝</sub>
-</p>
+如果这些教程或仓库帮到了你，欢迎扫码支持我继续更新。金额随意，心意到了就足够，感谢每一份认可。
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="./images/wx.png" alt="微信收款" width="160"/><br/>
+      <sub>微信</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="./images/alipay.png" alt="支付宝收款" width="160"/><br/>
+      <sub>支付宝</sub>
+    </td>
+  </tr>
+</table>
+</div>
