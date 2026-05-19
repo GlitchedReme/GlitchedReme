@@ -37,6 +37,5 @@
 
 <p align="center">
   <img src="./images/wx.png" alt="微信收款" width="160"/><br/><sub>微信</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./images/alipay.png" alt="支付宝收款" width="160"/><br/><sub>支付宝</sub>
 </p>
